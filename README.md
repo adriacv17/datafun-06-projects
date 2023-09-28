@@ -73,9 +73,9 @@ Note: The `--upgrade` parameter gets the latest version of each package.
 3. Repository Essentials
     a. Add a .gitignore file from a previous Python project.
     b. Add a requirements.txt file to hold external dependencies for Jupyter notebooks and others as you need them. 
-4. Update README.md
-    a. Modify the README.md to include your name, the link to your repo, and the focus of this project repository. 
-    b. Include instructions with the exact commands to: 
+4. Update README.md<br>
+    a. Modify the README.md to include your name, the link to your repo, and the focus of this project repository.<br> 
+    b. Include instructions with the exact commands to:<br> 
         1. Create and activate your virtual environment.
         2. Install all required external dependencies.
     c. Execute your Python files.
