@@ -68,22 +68,22 @@ Note: The `--upgrade` parameter gets the latest version of each package.
 1. GitHub
     a. Create a new repository named datafun-06-projects on GitHub.
     b. Initialize it with the default README.md.
-2. Local Machine
+2. Local Machine<br>
     a. In VS Code, clone your new repo into your Documents folder.
-3. Repository Essentials
-    a. Add a .gitignore file from a previous Python project.
-    b. Add a requirements.txt file to hold external dependencies for Jupyter notebooks and others as you need them. 
+3. Repository Essentials<br>
+    a. Add a .gitignore file from a previous Python project.<br>
+    b. Add a requirements.txt file to hold external dependencies for Jupyter notebooks and others as you need them.<br> 
 4. Update README.md<br>
     a. Modify the README.md to include your name, the link to your repo, and the focus of this project repository.<br> 
     b. Include instructions with the exact commands to:<br> 
-        1. Create and activate your virtual environment.
-        2. Install all required external dependencies.
+        1. Create and activate your virtual environment.<br>
+        2. Install all required external dependencies.<br>
     c. Execute your Python files.
 5. Create your local virtual environment (hint: use venv to create a .venv folder)
 6. Activate your local virtual environment (hint: call a command in the .venv subfolder)
 7. Install any external dependencies you need (hint: use requirements.txt and all the files needed for Jupyter notebooks, pandas, etc.)
-8. Push to GitHub 
-    a. Add and commit all your changes with a commit message "Initialized repo"
+8. Push to GitHub<br> 
+    a. Add and commit all your changes with a commit message "Initialized repo"<br>
     b. Push your changes to GitHub
 
 ### Task 1 - Verify Repository
@@ -98,13 +98,13 @@ This first project is a guided exploration.
 1. Follow the instructions for Exercise 9.16 (starting pg. 350).
 2. Complete the exercise in a Jupyter notebook. 
 3. Include the title of the notebook, your name, and date at the top.
-4. Include the following Markdown Section Headings in your notebook. 
-    a. Section 1-Load: Get the file, store it in your repo, and load it into a DataFrame. 
-    b. Section 2-View: Display the first 7 rows and the last 7 rows.
-    c. Section 3-Describe: Use the DataFrame describe() function to calculate basic descriptive statistics for all numeric columns. 
-    d. Section 4-Series: Use the Series method describe() to calculate the descriptive stats for all category/text columns.
-    e. Section 5-Unique: Use the Series method unique() to get unique category values. 
-    f. Section 6-Histograms: Use the DataFrame's hist() function to create a histogram for each numerical column.
+4. Include the following Markdown Section Headings in your notebook.<br> 
+    a. Section 1-Load: Get the file, store it in your repo, and load it into a DataFrame.<br>
+    b. Section 2-View: Display the first 7 rows and the last 7 rows.<br>
+    c. Section 3-Describe: Use the DataFrame describe() function to calculate basic descriptive statistics for all numeric columns.<br>
+    d. Section 4-Series: Use the Series method describe() to calculate the descriptive stats for all category/text columns.<br>
+    e. Section 5-Unique: Use the Series method unique() to get unique category values.<br> 
+    f. Section 6-Histograms: Use the DataFrame's hist() function to create a histogram for each numerical column.<br>
 
 ### Task 2 - Push to GitHub
 
